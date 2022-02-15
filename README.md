@@ -1,7 +1,7 @@
 s 👋 Hi, I’m @Genildocssss
-- 👀 I’m interested in Python and java.
+- 👀 I’m interested in Python, javascript, html and css3.
 - 🌱 I’m currently learning Python and java
-- 💞️ I’m looking to collaborate on that involve collaboration on projects in python and java.
+- 💞️ I’m looking to collaborate on that involve collaboration on projects in Python, javascript, html and css3.
 - 📫 How to reach me linkedin.com/in/genildo-cerqueira-91888786/
 
 <!---
