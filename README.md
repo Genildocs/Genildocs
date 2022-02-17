@@ -1,4 +1,4 @@
-s 👋 Hi, I’m @Genildocssss
+s 👋 Hi, I’m Genildo Cerqueira
 - 👀 I’m interested in Python, javascript, html and css3.
 - 🌱 I’m currently learning Python, java, javascript, html and css3.
 - 💞️ I’m looking to collaborate on that involve collaboration on projects in Python, javascript, html and css3.
