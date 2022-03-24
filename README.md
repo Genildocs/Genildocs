@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genildocs&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  #### Tecnologias com conhecimento!
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Genildo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Genildo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,7 +24,6 @@
 
   ##
   
-  #### Tecnologias com conhecimento!
   
   <div> 
   <a href = "mailto:genildocs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
