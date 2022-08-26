@@ -1,6 +1,6 @@
 ##  👋 Oi, Eu sou o Genildo Cerqueira
 ##### Atualmente estudo Gestão em T.I e faço parte do projeto TransformaTec, um programa de formação em tecnologia com foco no desenvolvimento Full Stack Java, React e Cloud. 
-##### Tenho aprendido com cursos no Udemy, Estudunauta, Curso em vídeo e Youtube: JavaScript, linguagem de marcação e estilização HMTL5 e CSS.
+##### Tenho aprendido com cursos no Udemy, Estudunauta, Curso em vídeo e Youtube: Python, JavaScript, linguagem de marcação e estilização HMTL5 e CSS.
 ##### Meu foco é me tornar um desenvolvedor full stack com grande conhecimento tanto no Front-end como no Back-end.
 
 
