@@ -1,10 +1,6 @@
 ##  👋 Oi, Eu sou o Genildo Cerqueira
 
-##### Estudante de Análise e desenvolvimento de sistemas.
-
-##### Tenho aprendido com cursos no Udemy, Estudunauta, Curso em vídeo e Youtube: JavaScript, linguagem de marcação e estilização HMTL5 e CSS.
-
-##### Meu foco é me tornar um desenvolvedor web com grande conhecimento no Front-end.
+##### Desenvolvedor Front-end.
 
 
 <div>
