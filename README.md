@@ -1,6 +1,6 @@
 ##  👋 Oi, Eu sou o Genildo Cerqueira
 
-##### Desenvolvedor Front-end.
+##### Desenvolvedor Full-Stack em formação.
 
 
 <div>
