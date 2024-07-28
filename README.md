@@ -1,4 +1,4 @@
-##  👋 Oi, Eu sou o Genildo Cerqueira
+##  👋 Oi, Eu sou o Genildo 
 
 ##### Desenvolvedor Full-Stack em formação.
 
