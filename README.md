@@ -1,8 +1,8 @@
-##  👋 Oi, Eu sou o Genildo 
+<h1>👋 Oi, Eu sou o Genildo</h1>   
 
-<h1>Desenvolvedor Full-Stack em formação.</h1> 
+<h2>Desenvolvedor Full-Stack em formação.</h2> 
 
-<h2 align="center">📫 Connect with me</h2>
+<h3 align="center">📫 Connect with me</h3>
 
 <div> 
   <a href = "mailto:genildocs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genildocs&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<h2 align="center"> 🛠️ Tecnologias que estou estudando! </h2>
+<h3 align="center"> 🛠️ Tecnologias que estou estudando! </h3>
   
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
