@@ -9,9 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genildocs&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <b> Tecnologias que estou estudando! </b>
+<b> Tecnologias que estou estudando! </b>
   
-  <details open>
+<details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
   
