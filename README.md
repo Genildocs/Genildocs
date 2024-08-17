@@ -2,6 +2,12 @@
 
 ##### Desenvolvedor Full-Stack em formação.
 
+<h2 align="center">📫 Connect with me</h2>
+
+<div> 
+  <a href = "mailto:genildocs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/genildo-cerqueira-91888786/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 <div>
   <a href="https://github.com/Genildocs">
@@ -28,8 +34,6 @@
   
   <div> 
   <a href = "mailto:genildocs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/genildo-cerqueira-91888786/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
+  <a href="https://www.linkedin.com/in/genildo-cerqueira-91888786/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
