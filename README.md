@@ -28,6 +28,6 @@
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Angular]<img height="180em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />&nbsp;
+![Angular](<img height="180em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />)&nbsp;
 </details>
 
