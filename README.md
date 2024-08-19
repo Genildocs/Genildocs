@@ -27,7 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-<img height="30px" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />
-<img height="30px" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />&nbsp;
+<img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />
+<img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />&nbsp;
 </details>
 
