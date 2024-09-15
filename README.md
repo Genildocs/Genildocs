@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genildocs&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<h3 align="center"> 🛠️ Tecnologias que estou estudando! </h3>
+<h3 align="center"> 🛠️ Languages and Tools </h3>
   
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
@@ -31,4 +31,5 @@
 <img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />&nbsp;
 <img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />&nbsp;
 </details>
-
+<br>
+<summary><b>🧰 Backend</b></summary>
