@@ -35,5 +35,5 @@
 <details open>
 <summary><b>🧰 Backend</b></summary>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)&nbsp;
 </details>
