@@ -32,4 +32,8 @@
 <img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />&nbsp;
 </details>
 <br>
+<details open>
 <summary><b>🧰 Backend</b></summary>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs&theme=light)](https://skillicons.dev)  
+</details>
