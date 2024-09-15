@@ -29,5 +29,6 @@
 <img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" />
 <img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />
 <img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />&nbsp;
+<img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />&nbsp;
 </details>
 
