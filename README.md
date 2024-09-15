@@ -35,5 +35,5 @@
 <details open>
 <summary><b>🧰 Backend</b></summary>
 <br>
-<img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/py.svg" />&nbsp;
+<img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />&nbsp;
 </details>
