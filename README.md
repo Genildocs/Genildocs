@@ -35,5 +35,5 @@
 <details open>
 <summary><b>🧰 Backend</b></summary>
 <br>
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
+<img height="50px" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/py.svg" />&nbsp;
 </details>
