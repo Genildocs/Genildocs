@@ -1,7 +1,5 @@
 <h1>👋 Oi, Eu sou o Genildo!</h1>   
 
-<h2>Desenvolvedor Full-Stack em formação.</h2> 
-
 <h3 align="center">📫 Connect with me</h3>
 
 <div> 
