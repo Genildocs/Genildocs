@@ -41,15 +41,6 @@ Apaixonado por tecnologia, automação e soluções que geram valor real.<br>
 
 ---
 
-## 📦 Projetos em Andamento
-
-- 🚀 **Deploy-Wise** → API de deploy inteligente, CI/CD simplificado sem YAML infernal.
-- 🔥 **NewsWise** → API de coleta e curadoria de notícias com foco em devs e apps.
-- 🎯 **Artemis** → Tracker de value bets e automação de análise de odds.
-- 🏢 **Orbis** → Plataforma modular de gestão empresarial full-stack.
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Genildocs&show_icons=true&theme=tokyonight" alt="stats"/>
