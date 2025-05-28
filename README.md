@@ -1,4 +1,4 @@
-![Banner](link-da-imagem-aqui)
+![Banner](https://sora.chatgpt.com/g/gen_01jwbw983bevd8jgd509kmqkxz)
 
 # 🚀 Genildo Cerqueira | Full Stack Dev  | API Builder
 
