@@ -1,61 +1,59 @@
-<h1 align="center">🚀 Genildo Cerqueira | Full Stack Dev | Cloud Engineer | API Builder</h1>
+![Banner](link-da-imagem-aqui)
 
-<p align="center">
-Apaixonado por tecnologia, automação e soluções que geram valor real.<br>
-🚀 Backend • 🧠 DevOps • 🔗 APIs • ☁️ Cloud • 🦀 Rust Fanboy
-</p>
+# 🚀 Genildo Cerqueira | Full Stack Dev | Cloud Engineer | API Builder
 
----
-
-## 🚀 Sobre Mim
-
-- 💼 Desenvolvedor apaixonado por criar **APIs performáticas**, **automação de infraestrutura** e **produtos digitais escaláveis**.
-- 🔥 Foco atual: **Rust, Node, NestJS, AWS, Docker, MongoDB e Deploy Automatizado**.
-- 🏗️ Acredito que software deve ser simples, eficiente e sem firulas.
-- 🎯 Mission: **"Transformar ideias em soluções robustas, seguras e escaláveis."**
+🧠 Debugging the Matrix • Breaking Limits • Building Real-World Solutions
 
 ---
 
-## 💡 Tecnologias e Ferramentas
+## 🧩 About Me
 
-### 🔧 Backend & Infra  
+💡 Full Stack Developer & Cloud Engineer focused on building **high-performance APIs**, **automated infrastructure**, and **scalable digital products**.
+
+🔥 Currently working with:  
+**Rust | NodeJS | NestJS | AWS | Docker | MongoDB | PostgreSQL | CI/CD | Infrastructure as Code**
+
+💻 I believe software should be **simple, efficient, and no-nonsense.**
+
+🎯 **Mission:** _"Transform ideas into robust, secure, and scalable solutions."_
+
+🛠️ Always learning. Always debugging the system — whether it's software or life itself.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🚀 Backend & Infrastructure
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js) 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs) 
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🌐 Frontend  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css) 
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass) 
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🛠️ DevOps & Tools  
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx) 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions) 
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Genildocs&show_icons=true&theme=tokyonight" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genildocs&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
+## 🔥 Connect with Me
+
+- 🌐 Medium: [medium.com/@genildocs](https://medium.com/@genildocs)
+- 💼 LinkedIn: [linkedin.com/in/genildocs](https://linkedin.com/in/genildocs)
+- 🧠 Twitter/X: [twitter.com/genildocs](https://twitter.com/genildocs)
+- 🚀 Portfolio/Site: _Coming Soon..._ (debugging reality first)
 
 ---
 
-## 🌐 Onde me encontrar
-<p align="center">
-<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-<p align="center">
-🛠️ Feito com muito café ☕, poucas horas de sono 😴 e linhas de código 🚀.
-</p>
+> "**Debugging the Matrix. Building scalable APIs. Escaping the simulation, one commit at a time.**"
