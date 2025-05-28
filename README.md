@@ -1,6 +1,6 @@
 ![Banner](link-da-imagem-aqui)
 
-# 🚀 Genildo Cerqueira | Full Stack Dev | Cloud Engineer | API Builder
+# 🚀 Genildo Cerqueira | Full Stack Dev  | API Builder
 
 🧠 Debugging the Matrix • Breaking Limits • Building Real-World Solutions
 
