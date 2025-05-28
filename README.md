@@ -50,8 +50,7 @@
 ## 🔥 Connect with Me
 
 - 🌐 Medium: [medium.com/@genildocs](https://medium.com/@genildocs)
-- 💼 LinkedIn: [linkedin.com/in/genildocs](https://linkedin.com/in/genildocs)
-- 🧠 Twitter/X: [twitter.com/genildocs](https://twitter.com/genildocs)
+- 💼 LinkedIn: [linkedin.com/in/genildocs](https://www.linkedin.com/in/genildo-cerqueira-91888786/)
 - 🚀 Portfolio/Site: _Coming Soon..._ (debugging reality first)
 
 ---
