@@ -54,28 +54,3 @@
 
 _“Great software should delight the eye and empower the mind.”_ 🎨💻  
 _“Bringing life to static elements — one SVG at a time.”_ 🚀
-
-
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🔥 Connect with Me
-
-- 🌐 Medium: [medium.com/@genildocs](https://medium.com/@genildocs)
-- 💼 LinkedIn: [linkedin.com/in/genildocs](https://www.linkedin.com/in/genildo-cerqueira-91888786/)
-- 🚀 Portfolio/Site: _Coming Soon..._ (debugging reality first)
-
----
-
-> "**Debugging the Matrix. Building scalable APIs. Escaping the simulation, one commit at a time.**"
