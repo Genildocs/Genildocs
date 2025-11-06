@@ -39,7 +39,6 @@
 ## ✨ Current Projects
 
 - 🚀 **[Blueprint Blog](https://blueprintblog.tech)** → Public knowledge hub & personal creative space
-- 🎁 **SVG Kits** & **Landing Page Templates** → [Coming soon](#)
 - 📝 Articles on Medium → [medium.com/@genildocs](https://medium.com/@genildocs)
 
 ---
