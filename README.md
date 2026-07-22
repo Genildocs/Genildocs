@@ -1,6 +1,4 @@
-![Banner](https://iili.io/FFdOCZB.png)
-
-# Genildo Cerqueira | Creative Frontend Dev + API Builder | Founder of Blueprint
+# Genildo Cerqueira | Creative Frontend Dev + API Builder | Founder of Blense blog
 
 🌐 Building beautiful, performant web experiences — one component at a time.  
 ✨ Designing SVG Kits • Crafting Landing Pages • Sharing knowledge on Medium.  
@@ -10,7 +8,7 @@
 
 ## 🎨 Current Focus
 
-- Founder of **[Blueprint Blog](https://blueprintblog.tech)** → Sharing advanced Frontend, CSS, SVG & UI/UX techniques.
+- Founder of **[Blense Blog](https://blense.fun)** → Sharing advanced Frontend, CSS, SVG & UI/UX techniques.
 - Creating **SVG UI Kits** & **Landing Page Templates** for the dev/design community.
 - Writing in-depth articles on **CSS**, **JavaScript**, **Frontend Architecture**.
 
@@ -38,16 +36,16 @@
 
 ## ✨ Current Projects
 
-- 🚀 **[Blueprint Blog](https://blueprintblog.tech)** → Public knowledge hub & personal creative space
-- 📝 Articles on Medium → [medium.com/@genildocs](https://medium.com/@genildocs)
+- 🚀 **[Blense Blog](https://blense.fun)** → Public knowledge hub & personal creative space
+- 📝 Articles on Medium → [medium.com/@contato.blense](https://medium.com/@contato.blense)
 
 ---
 
 ## 📲 Connect with Me
 
-- 📝 Medium: [medium.com/@genildocs](https://medium.com/@genildocs)
+- 📝 Medium:[[medium.com/@genildocs](https://medium.com/@genildocs)]
 - 💼 LinkedIn: [linkedin.com/in/genildocs](https://linkedin.com/in/genildocs)
-- 🖥️ Portfolio/Site: [blueprintblog.tech](https://blueprintblog.tech)
+- 🖥️ Portfolio/Site: [blense.fun](https://blense.fun)
 
 ---
 
