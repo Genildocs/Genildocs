@@ -43,7 +43,7 @@
 
 ## 📲 Connect with Me
 
-- 📝 Medium:[[medium.com/@genildocs](https://medium.com/@genildocs)]
+- 📝 Medium:[[medium.com/@contato.blense](https://medium.com/@contato.blense)]
 - 💼 LinkedIn: [linkedin.com/in/genildocs](https://linkedin.com/in/genildocs)
 - 🖥️ Portfolio/Site: [blense.fun](https://blense.fun)
 
